@@ -1,0 +1,45 @@
+_repo: The-Lost-Princess-of-Oz_959
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Van Dyne, Edith
+    - Baum, Lyman Frank
+    - Bancroft, Laura
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: "The Lost Princess of Oz is the eleventh canonical Oz book written by\
+  \ L. Frank Baum. Published on June 5, 1917, it begins with the disappearance of\
+  \ Princess Ozma, the ruler of Oz and covers Dorothy and the Wizard's efforts to\
+  \ find her. The introduction to the book states that its inspiration was a letter\
+  \ a little girl had written to Baum: \"I suppose if Ozma ever got hurt or losted,\
+  \ everybody would be sorry.\"\nThe book was dedicated to the author's newborn granddaughter\
+  \ Ozma Baum, child of his youngest son Kenneth Gage Baum.\nRuth Plumly Thompson\
+  \ borrowed the plot of this novel for her 1937 Oz book Handy Mandy in Oz. The Frogman\
+  \ and Cayke's dishpan re-appear in Jeff Freedman's 1994 novel The Magic Dishpan\
+  \ of Oz.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '1997-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '959'
+  wikidata: Q7748719
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy'
+- !lcsh 'Oz (Imaginary place) -- Fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Lost Princess of Oz
+url: http://www.gutenberg.org/ebooks/959
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D8%A3%D9%85%D9%8A%D8%B1%D8%A9_%D8%A3%D9%88%D8%B2_%D8%A7%D9%84%D9%85%D9%81%D9%82%D9%88%D8%AF%D8%A9
+- https://en.wikipedia.org/wiki/The_Lost_Princess_of_Oz
+- https://pt.wikipedia.org/wiki/The_Lost_Princess_of_Oz
