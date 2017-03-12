@@ -1,5 +1,8 @@
 _repo: The-Lost-Princess-of-Oz_959
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baum, L. Frank (Lyman Frank)
@@ -22,6 +25,8 @@ description: "The Lost Princess of Oz is the eleventh canonical Oz book written 
   \ borrowed the plot of this novel for her 1937 Oz book Handy Mandy in Oz. The Frogman\
   \ and Cayke's dishpan re-appear in Jeff Freedman's 1994 novel The Magic Dishpan\
   \ of Oz.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/959#The-Lost-Princess-of-Oz
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '1997-06-01'
 gutenberg_type: Text
